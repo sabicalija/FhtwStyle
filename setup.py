@@ -18,7 +18,7 @@ setup(
         'Development Status :: 1 - Planning',
         'Environment :: Plugins',
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: GNU GPL-v3',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2',
